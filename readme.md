@@ -3,7 +3,3 @@
 I'm Ian Tse(Weicheng Xie), a full stack engineer.
 
 I focus on Node.js, Go, Rust, large language models.
-
-<p align="left">
-  <a href="mailto:tseianxwc@gmail.com">Email: tseianxwc@gmail.com</a>
-</p>
